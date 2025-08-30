@@ -1,4 +1,4 @@
-# 🏠 Predicción de Precios de Casas  
+# Predicción de Precios de Casas  
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen?logo=pandas&logoColor=white)  
@@ -6,11 +6,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Status](https://img.shields.io/badge/Status-Completado-brightgreen)  
 
-Proyecto ficticio de Machine Learning para predecir el **precio de casas** a partir de variables como superficie, habitaciones, baños, garage y antigüedad.  
+Proyecto de Machine Learning para predecir el **precio de casas** a partir de variables como superficie, habitaciones, baños, garage y antigüedad.  
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Fuente**: Datos inventados para fines educativos.  
 - **Variables**:
   - `superficie` (m²)  
@@ -22,7 +22,7 @@ Proyecto ficticio de Machine Learning para predecir el **precio de casas** a par
 
 ---
 
-## 📈 Resultados
+## Resultados
 Ejemplos de salidas del modelo:  
 
 📌 **Matriz de correlación**  
@@ -33,7 +33,7 @@ Ejemplos de salidas del modelo:
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
@@ -42,7 +42,7 @@ Ejemplos de salidas del modelo:
 
 ---
 
-## 🛠️ Cómo usar este proyecto
+## Cómo usar este proyecto
 ```bash
 git clone https://github.com/usuario/house-prices-ml.git
 cd house-prices-ml
@@ -52,5 +52,5 @@ jupyter notebook notebooks/modelo_prediccion.ipynb
 
 ---
 
-## 📜 Licencia
+## Licencia
 Este proyecto se distribuye bajo licencia **MIT**.
